@@ -250,6 +250,72 @@
 			(embedded_fonts no)
 		)
 	)
+	(no_connect
+		(at 187.96 105.41)
+		(uuid "1bf2c07f-8a06-42b0-bccf-05ad23cc9892")
+	)
+	(no_connect
+		(at 187.96 110.49)
+		(uuid "48758803-3732-4fde-a933-3007e1612dc3")
+	)
+	(no_connect
+		(at 187.96 107.95)
+		(uuid "ad1317f9-89dc-45b4-b14c-aa701fd777d1")
+	)
+	(no_connect
+		(at 187.96 102.87)
+		(uuid "c93f285b-3498-4da4-bac9-c85df13b7e43")
+	)
+	(wire
+		(pts
+			(xy 86.36 74.93) (xy 130.81 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a4eafad-4792-4c2e-8e30-0802b8945b1e")
+	)
+	(wire
+		(pts
+			(xy 187.96 77.47) (xy 213.36 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5850457b-21bd-43d8-9c22-6d05cf2fa29c")
+	)
+	(wire
+		(pts
+			(xy 86.36 88.9) (xy 130.81 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d31337e-67e8-4346-a176-9ea5f20c4f65")
+	)
+	(wire
+		(pts
+			(xy 86.36 77.47) (xy 130.81 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "614c904c-6f44-43a7-9463-e2507995c705")
+	)
+	(wire
+		(pts
+			(xy 187.96 80.01) (xy 213.36 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649f9a57-9711-47a5-9d3e-19fb42146081")
+	)
 	(wire
 		(pts
 			(xy 245.11 55.88) (xy 251.46 55.88)
@@ -262,6 +328,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 110.49) (xy 130.81 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72048ae6-382b-48c1-92fa-f976147e5802")
+	)
+	(wire
+		(pts
 			(xy 245.11 60.96) (xy 251.46 60.96)
 		)
 		(stroke
@@ -270,9 +346,59 @@
 		)
 		(uuid "7a4349b6-9881-45d8-a071-3ee20e09d838")
 	)
+	(wire
+		(pts
+			(xy 86.36 107.95) (xy 130.81 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c61100a-9f3c-4d5b-b13d-45e0f6362834")
+	)
+	(wire
+		(pts
+			(xy 86.36 86.36) (xy 130.81 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f7987ef-f527-4895-8582-e07285b4f241")
+	)
+	(wire
+		(pts
+			(xy 86.36 105.41) (xy 130.81 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91cc1475-64dd-470c-80cb-2c6b3782cd9f")
+	)
+	(wire
+		(pts
+			(xy 86.36 91.44) (xy 130.81 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aec7131-d822-4eeb-99a4-d868692b4f9b")
+	)
+	(wire
+		(pts
+			(xy 86.36 72.39) (xy 130.81 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec2e0a06-e042-4fef-9046-005d30c3d27b")
+	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 157.48 143.51 0)
+		(at 170.18 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -281,7 +407,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e376da8-5e2c-4037-a96d-f58c0e4f4890")
 		(property "Reference" "H4"
-			(at 160.02 142.2399 0)
+			(at 172.72 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -290,7 +416,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 160.02 144.7799 0)
+			(at 172.72 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -299,7 +425,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 157.48 143.51 0)
+			(at 170.18 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -308,7 +434,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 143.51 0)
+			(at 170.18 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -317,7 +443,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 157.48 143.51 0)
+			(at 170.18 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -336,7 +462,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 133.35 143.51 0)
+		(at 146.05 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -345,7 +471,7 @@
 		(fields_autoplaced yes)
 		(uuid "8ec5c77a-4f93-445a-9a4c-b3c86e9a3e96")
 		(property "Reference" "H3"
-			(at 135.89 142.2399 0)
+			(at 148.59 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -354,7 +480,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 135.89 144.7799 0)
+			(at 148.59 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -363,7 +489,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 133.35 143.51 0)
+			(at 146.05 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -372,7 +498,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 143.51 0)
+			(at 146.05 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -381,7 +507,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 133.35 143.51 0)
+			(at 146.05 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -400,7 +526,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 157.48 135.89 0)
+		(at 170.18 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -409,7 +535,7 @@
 		(fields_autoplaced yes)
 		(uuid "b772f836-2bed-41c5-a16a-f5b57590c3d9")
 		(property "Reference" "H2"
-			(at 160.02 134.6199 0)
+			(at 172.72 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -418,7 +544,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 160.02 137.1599 0)
+			(at 172.72 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -427,7 +553,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 157.48 135.89 0)
+			(at 170.18 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -436,7 +562,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 135.89 0)
+			(at 170.18 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -445,7 +571,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 157.48 135.89 0)
+			(at 170.18 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -534,7 +660,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 133.35 135.89 0)
+		(at 146.05 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -543,7 +669,7 @@
 		(fields_autoplaced yes)
 		(uuid "f35b81fd-bc9f-4894-ba07-c968eb79add7")
 		(property "Reference" "H1"
-			(at 135.89 134.6199 0)
+			(at 148.59 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -552,7 +678,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 135.89 137.1599 0)
+			(at 148.59 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -561,7 +687,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 133.35 135.89 0)
+			(at 146.05 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -570,7 +696,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 135.89 0)
+			(at 146.05 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -579,7 +705,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 133.35 135.89 0)
+			(at 146.05 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1194,7 +1320,7 @@
 			)
 		)
 		(pin "CLK" input
-			(at 86.36 110.49 0)
+			(at 86.36 107.95 0)
 			(uuid "46cc858b-4578-4797-a895-c24b85b8955e")
 			(effects
 				(font
@@ -1204,7 +1330,7 @@
 			)
 		)
 		(pin "DT" input
-			(at 86.36 107.95 0)
+			(at 86.36 105.41 0)
 			(uuid "d03d1f78-c966-4b44-9f8a-50826128f560")
 			(effects
 				(font
@@ -1224,7 +1350,7 @@
 			)
 		)
 		(pin "SW" input
-			(at 86.36 105.41 0)
+			(at 86.36 110.49 0)
 			(uuid "ee63f516-5c35-4bb6-ac77-7675da28b4c5")
 			(effects
 				(font
@@ -1366,28 +1492,8 @@
 				(justify right)
 			)
 		)
-		(pin "PB3{slash}GPIO_IN" input
-			(at 130.81 68.58 180)
-			(uuid "256e73fe-c6bb-4543-a054-865253d47059")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "PB5{slash}GPIO_IN" input
-			(at 130.81 71.12 180)
-			(uuid "e8805fe6-6f6a-481f-8f21-245bd6c72cb3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "PB6{slash}I2C_SCL1" input
-			(at 187.96 82.55 0)
+			(at 187.96 77.47 0)
 			(uuid "b5237168-1454-4e76-8125-5434001e9ff3")
 			(effects
 				(font
@@ -1397,7 +1503,7 @@
 			)
 		)
 		(pin "PB7{slash}I2C_SDA1" input
-			(at 187.96 85.09 0)
+			(at 187.96 80.01 0)
 			(uuid "2113bb21-e3fa-49ac-ab29-8f81dd71d99c")
 			(effects
 				(font
@@ -1406,9 +1512,9 @@
 				(justify right)
 			)
 		)
-		(pin "PB8{slash}GPIO_IN" input
-			(at 130.81 73.66 180)
-			(uuid "f050d229-857d-4d0e-96a2-d23668e74c37")
+		(pin "A8{slash}GPIO_IN" input
+			(at 130.81 86.36 180)
+			(uuid "570c6da6-04f5-45c6-ac25-1570ccadaf22")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1416,9 +1522,9 @@
 				(justify left)
 			)
 		)
-		(pin "PB9{slash}GPIO_IN" input
-			(at 130.81 76.2 180)
-			(uuid "039481fa-2abb-4978-8cef-cd26d4d8b64a")
+		(pin "A9{slash}GPIO_IN" input
+			(at 130.81 88.9 180)
+			(uuid "3191b471-d535-4aa6-ab7d-c6a709d325ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1426,9 +1532,9 @@
 				(justify left)
 			)
 		)
-		(pin "PC13{slash}GPIO_IN" input
-			(at 130.81 87.63 180)
-			(uuid "482e03fb-29b1-4797-9001-96a2836f618d")
+		(pin "B12{slash}GPIO_IN" input
+			(at 130.81 72.39 180)
+			(uuid "8fd67fde-2ac4-4716-b36b-c4a78e7beeb0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1436,9 +1542,9 @@
 				(justify left)
 			)
 		)
-		(pin "PC14{slash}GPIO_IN" input
-			(at 130.81 90.17 180)
-			(uuid "d6c7f2ed-049c-4d61-b5a2-55f9aaf866d7")
+		(pin "B13{slash}GPIO_IN" input
+			(at 130.81 74.93 180)
+			(uuid "74146de7-0c27-4212-bb1f-8aed287c06e2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1446,9 +1552,29 @@
 				(justify left)
 			)
 		)
-		(pin "PC15{slash}GPIO_IN" input
-			(at 130.81 92.71 180)
-			(uuid "638cc173-2f86-489b-bab0-f54838feccc4")
+		(pin "B14{slash}GPIO_IN" input
+			(at 130.81 77.47 180)
+			(uuid "5a80f432-365a-4262-99f8-96956dd9753d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "B15{slash}GPIO_IN" input
+			(at 130.81 91.44 180)
+			(uuid "7dfa4af7-9ae9-4288-b30f-7ce48686e57a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PB0{slash}SWO" input
+			(at 130.81 99.06 180)
+			(uuid "f11d6bd1-47ef-430b-abe9-28800012b4f6")
 			(effects
 				(font
 					(size 1.27 1.27)
