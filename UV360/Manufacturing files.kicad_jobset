@@ -1,0 +1,17 @@
+{
+  "jobs": [],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "",
+      "id": "b378e6e2-ee40-4ef0-8d56-6130156e6b0e",
+      "only": [],
+      "settings": {
+        "output_path": "Manufacturing files"
+      },
+      "type": "folder"
+    }
+  ]
+}
