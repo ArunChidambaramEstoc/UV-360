@@ -644,7 +644,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 170.18 153.67 0)
+		(at 80.01 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -653,7 +653,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e376da8-5e2c-4037-a96d-f58c0e4f4890")
 		(property "Reference" "H4"
-			(at 172.72 152.3999 0)
+			(at 82.55 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -662,7 +662,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 172.72 154.9399 0)
+			(at 82.55 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -671,7 +671,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 170.18 153.67 0)
+			(at 80.01 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -680,7 +680,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 153.67 0)
+			(at 80.01 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -689,7 +689,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 170.18 153.67 0)
+			(at 80.01 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -708,7 +708,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 146.05 153.67 0)
+		(at 55.88 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -717,7 +717,7 @@
 		(fields_autoplaced yes)
 		(uuid "8ec5c77a-4f93-445a-9a4c-b3c86e9a3e96")
 		(property "Reference" "H3"
-			(at 148.59 152.3999 0)
+			(at 58.42 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -726,7 +726,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 148.59 154.9399 0)
+			(at 58.42 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -735,7 +735,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 146.05 153.67 0)
+			(at 55.88 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -744,7 +744,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 153.67 0)
+			(at 55.88 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -753,7 +753,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 146.05 153.67 0)
+			(at 55.88 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -772,7 +772,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 170.18 146.05 0)
+		(at 80.01 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -781,7 +781,7 @@
 		(fields_autoplaced yes)
 		(uuid "b772f836-2bed-41c5-a16a-f5b57590c3d9")
 		(property "Reference" "H2"
-			(at 172.72 144.7799 0)
+			(at 82.55 160.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -790,7 +790,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 172.72 147.3199 0)
+			(at 82.55 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -799,7 +799,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 170.18 146.05 0)
+			(at 80.01 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -808,7 +808,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 146.05 0)
+			(at 80.01 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -817,7 +817,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 170.18 146.05 0)
+			(at 80.01 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1037,7 +1037,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 146.05 146.05 0)
+		(at 55.88 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -1046,7 +1046,7 @@
 		(fields_autoplaced yes)
 		(uuid "f35b81fd-bc9f-4894-ba07-c968eb79add7")
 		(property "Reference" "H1"
-			(at 148.59 144.7799 0)
+			(at 58.42 160.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1055,7 +1055,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 148.59 147.3199 0)
+			(at 58.42 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1064,7 +1064,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 146.05 146.05 0)
+			(at 55.88 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1073,7 +1073,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 146.05 0)
+			(at 55.88 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1082,7 +1082,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 146.05 146.05 0)
+			(at 55.88 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1571,8 +1571,8 @@
 		)
 	)
 	(sheet
-		(at 213.36 68.58)
-		(size 12.7 17.78)
+		(at 213.36 71.12)
+		(size 12.7 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1586,7 +1586,7 @@
 		)
 		(uuid "862a89cd-6987-49ab-92a1-73fd51506e34")
 		(property "Sheetname" "LCD"
-			(at 222.504 80.264 90)
+			(at 223.266 80.264 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1595,7 +1595,7 @@
 			)
 		)
 		(property "Sheetfile" "lcd.kicad_sch"
-			(at 213.36 84.4046 0)
+			(at 213.36 86.9446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1605,7 +1605,7 @@
 			)
 		)
 		(pin "5V" input
-			(at 213.36 71.12 180)
+			(at 213.36 73.66 180)
 			(uuid "e1628339-270a-463f-8283-e91d24a98895")
 			(effects
 				(font
@@ -1615,7 +1615,7 @@
 			)
 		)
 		(pin "GND" input
-			(at 213.36 85.09 180)
+			(at 213.36 83.82 180)
 			(uuid "4217809a-9213-4f5c-9baa-0e2974879443")
 			(effects
 				(font
@@ -1746,7 +1746,7 @@
 	)
 	(sheet
 		(at 130.81 52.07)
-		(size 57.15 63.5)
+		(size 57.15 72.39)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1770,7 +1770,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 130.81 116.1546 0)
+			(at 130.81 125.0446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1780,7 +1780,7 @@
 			)
 		)
 		(pin "5V" input
-			(at 138.43 52.07 90)
+			(at 142.24 52.07 90)
 			(uuid "0c0ca2e5-dc62-4533-ae3c-6acb749e6a6d")
 			(effects
 				(font
@@ -1950,7 +1950,7 @@
 			)
 		)
 		(pin "PB0{slash}SWO" input
-			(at 130.81 99.06 180)
+			(at 149.86 124.46 270)
 			(uuid "f11d6bd1-47ef-430b-abe9-28800012b4f6")
 			(effects
 				(font
