@@ -440,6 +440,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -644,6 +645,18 @@
     [
       "71c6869c-4437-4a0b-9134-bccbb94230d1",
       "RELAYS"
+    ],
+    [
+      "838d61aa-bfd3-43b0-96be-35c67846f33d",
+      "PIR_ISOLATOR"
+    ],
+    [
+      "fdd530e1-065e-4c92-a13d-ffa8fd694749",
+      "PIR_ISOLATOR1"
+    ],
+    [
+      "63877d52-72a1-47c9-9ee0-69b68b3def3d",
+      "PIR_ISOLATOR2"
     ]
   ],
   "text_variables": {}
