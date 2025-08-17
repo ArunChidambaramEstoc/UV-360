@@ -2662,7 +2662,7 @@
 		)
 		(uuid "f0f65940-bdc8-4bcd-9812-fd2cad24e2ab")
 	)
-	(hierarchical_label "3.3V"
+	(hierarchical_label "3.3V-BUCK"
 		(shape output)
 		(at 218.44 124.46 0)
 		(effects
@@ -2695,7 +2695,7 @@
 		)
 		(uuid "66961a1d-cdd8-4d9c-8c5a-6e1d46917aed")
 	)
-	(hierarchical_label "3.3V_GND"
+	(hierarchical_label "3.3V_GND-BUCK"
 		(shape output)
 		(at 218.44 140.97 0)
 		(effects

@@ -971,16 +971,8 @@
 		(uuid "2e0d1a4c-7e25-4bba-80b7-23b2b776b500")
 	)
 	(no_connect
-		(at 171.45 66.04)
-		(uuid "3be41662-f906-47ce-a72d-7a140cbda14e")
-	)
-	(no_connect
 		(at 171.45 63.5)
 		(uuid "3bef1f8d-6923-46d0-8764-6cfb920fa539")
-	)
-	(no_connect
-		(at 171.45 68.58)
-		(uuid "429de29f-4ec8-4ee6-8ec2-cd646adf8131")
 	)
 	(no_connect
 		(at 171.45 111.76)
@@ -1025,6 +1017,16 @@
 	(no_connect
 		(at 151.13 88.9)
 		(uuid "f2185090-f734-4c99-a415-d1ad72927670")
+	)
+	(wire
+		(pts
+			(xy 171.45 68.58) (xy 182.88 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f32d9aa-8c29-4437-affb-c4e11c90f18d")
 	)
 	(wire
 		(pts
@@ -1185,6 +1187,16 @@
 			(type default)
 		)
 		(uuid "c5895dd2-6312-4e36-9856-b064f0ac240b")
+	)
+	(wire
+		(pts
+			(xy 171.45 66.04) (xy 182.88 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c79ff79e-de01-43bb-bd54-74b61aef0d45")
 	)
 	(wire
 		(pts
@@ -1663,6 +1675,17 @@
 		)
 		(uuid "e9cecc41-66f7-44e6-b811-97ebe6c06eee")
 	)
+	(hierarchical_label "MCU-3.3V-GND"
+		(shape output)
+		(at 182.88 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ec7b0205-53e0-49d1-b1e5-845d1bca80d5")
+	)
 	(hierarchical_label "PA7{slash}EEPROM_SPI1_MOSI"
 		(shape input)
 		(at 182.88 81.28 0)
@@ -1673,6 +1696,17 @@
 			(justify left)
 		)
 		(uuid "ed8adb2d-d7e2-42c1-9809-b226f55d24a0")
+	)
+	(hierarchical_label "MCU-3.3V"
+		(shape output)
+		(at 182.88 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f87da37d-cb4b-41cb-ada6-171e251120ca")
 	)
 	(symbol
 		(lib_id "Aruns:STM32BlackPill")

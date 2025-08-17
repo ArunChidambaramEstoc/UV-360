@@ -509,6 +509,36 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 66.04) (xy 175.26 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "023464cc-7fc9-45f1-a2f7-b1dc17af46cf")
+	)
+	(wire
+		(pts
+			(xy 166.37 53.34) (xy 175.26 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "025a9f90-e76f-4289-8952-f4e187b5aa80")
+	)
+	(wire
+		(pts
+			(xy 166.37 107.95) (xy 175.26 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1234e917-d503-40f2-ab65-f5b7c995bb65")
+	)
+	(wire
+		(pts
 			(xy 93.98 81.28) (xy 100.33 81.28)
 		)
 		(stroke
@@ -519,7 +549,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 83.82) (xy 115.57 77.47)
+			(xy 137.16 83.82) (xy 137.16 58.42)
 		)
 		(stroke
 			(width 0)
@@ -539,16 +569,6 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 95.25) (xy 144.78 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "269d7c3f-f4b2-4894-8c26-bb6a2c5adf7d")
-	)
-	(wire
-		(pts
 			(xy 100.33 74.93) (xy 100.33 81.28)
 		)
 		(stroke
@@ -559,13 +579,63 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 88.9) (xy 115.57 95.25)
+			(xy 218.44 86.36) (xy 222.25 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37d4a753-8472-41bc-82aa-5aecedd6cf68")
+	)
+	(wire
+		(pts
+			(xy 166.37 78.74) (xy 175.26 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3805b511-4479-486e-b864-46142af92f78")
+	)
+	(wire
+		(pts
+			(xy 137.16 88.9) (xy 137.16 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "51be91fd-ffe4-4d62-8748-da1f159ec299")
+	)
+	(wire
+		(pts
+			(xy 137.16 115.57) (xy 175.26 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62c5c8e3-3ddf-4e38-9e4b-a440908cd34f")
+	)
+	(wire
+		(pts
+			(xy 218.44 58.42) (xy 222.25 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65ff2d49-c049-49e8-af62-be02a75b8fe9")
+	)
+	(wire
+		(pts
+			(xy 166.37 123.19) (xy 175.26 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bcd2f68-2f4f-49a0-9c34-c65bfb8dcd39")
 	)
 	(wire
 		(pts
@@ -579,37 +649,47 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 86.36) (xy 144.78 86.36)
+			(xy 166.37 50.8) (xy 175.26 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "add8fbca-d64d-47f1-9097-cec3e015f7c3")
+		(uuid "8c2364c9-f104-49bf-becb-0b92c0b3e628")
 	)
 	(wire
 		(pts
-			(xy 93.98 86.36) (xy 120.65 86.36)
+			(xy 166.37 110.49) (xy 175.26 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aff93582-163a-4d1f-85f7-9a47fed96e69")
+		(uuid "9cdb6b48-789e-4850-9eda-ddf33cdc7438")
 	)
 	(wire
 		(pts
-			(xy 149.86 77.47) (xy 144.78 77.47)
+			(xy 175.26 86.36) (xy 93.98 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c6cb42a9-33f7-48bf-adb0-b56119480b20")
+		(uuid "a9f7c466-8867-463f-b3ea-1f3757d125ec")
 	)
 	(wire
 		(pts
-			(xy 93.98 88.9) (xy 115.57 88.9)
+			(xy 166.37 93.98) (xy 175.26 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bec947d7-dc23-4547-ad2f-ecc2c3b8df9a")
+	)
+	(wire
+		(pts
+			(xy 93.98 88.9) (xy 137.16 88.9)
 		)
 		(stroke
 			(width 0)
@@ -619,7 +699,17 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 83.82) (xy 115.57 83.82)
+			(xy 218.44 115.57) (xy 222.25 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc22d809-ba3a-43b7-b2bc-0d1f355aab75")
+	)
+	(wire
+		(pts
+			(xy 93.98 83.82) (xy 137.16 83.82)
 		)
 		(stroke
 			(width 0)
@@ -629,7 +719,27 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 77.47) (xy 120.65 77.47)
+			(xy 166.37 63.5) (xy 175.26 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d06bad93-3ba4-4781-832d-217d15b1036d")
+	)
+	(wire
+		(pts
+			(xy 166.37 81.28) (xy 175.26 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d80c0112-e96c-44b3-bee0-2c8eedfa1379")
+	)
+	(wire
+		(pts
+			(xy 137.16 58.42) (xy 175.26 58.42)
 		)
 		(stroke
 			(width 0)
@@ -639,13 +749,23 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 95.25) (xy 120.65 95.25)
+			(xy 166.37 91.44) (xy 175.26 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e6c476a5-7719-4b07-8ecb-644aa2aea576")
+		(uuid "dbf4925c-9ab9-4eb6-a914-616026af7108")
+	)
+	(wire
+		(pts
+			(xy 166.37 120.65) (xy 175.26 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd9e006e-d060-416c-9b54-b91599e20790")
 	)
 	(wire
 		(pts
@@ -667,20 +787,20 @@
 		)
 		(uuid "f94878a3-445a-4812-8cb5-30cd0c8b3d58")
 	)
-	(hierarchical_label "PIR3"
-		(shape output)
-		(at 149.86 95.25 0)
+	(hierarchical_label "+5V"
+		(shape input)
+		(at 166.37 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "1da6ecd6-a5d3-44f6-8e6c-c5cf453b7ad1")
+		(uuid "0658a6d0-1ab5-47f2-9bf9-1dc16c1385b9")
 	)
 	(hierarchical_label "PIR1"
 		(shape output)
-		(at 149.86 77.47 0)
+		(at 222.25 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -700,9 +820,64 @@
 		)
 		(uuid "30e7b501-9893-44ff-a5b3-69aada78c582")
 	)
+	(hierarchical_label "PIR3"
+		(shape output)
+		(at 222.25 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "37bd0109-c279-4ad4-8642-cd46ad1ce06b")
+	)
+	(hierarchical_label "MCU-3.3V-GND"
+		(shape input)
+		(at 166.37 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "48369b36-b607-4105-bb90-e63d98480de5")
+	)
+	(hierarchical_label "MCU-3.3V"
+		(shape input)
+		(at 166.37 110.49 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "50fd4e0f-fc1c-414b-adb9-8b94eb1c236a")
+	)
+	(hierarchical_label "+5V"
+		(shape input)
+		(at 166.37 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7c79d4b2-3050-4cd8-a03f-299f58306b1a")
+	)
+	(hierarchical_label "MCU-3.3V-GND"
+		(shape input)
+		(at 166.37 63.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96255c66-3501-43a0-b917-722a4ca006e0")
+	)
 	(hierarchical_label "PIR2"
 		(shape output)
-		(at 149.86 86.36 0)
+		(at 222.25 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -710,6 +885,39 @@
 			(justify left)
 		)
 		(uuid "995e84a3-26da-4826-9c1c-64b246cc1d04")
+	)
+	(hierarchical_label "+5V"
+		(shape input)
+		(at 166.37 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ad71c563-0949-457f-8c1a-9a44ffd6ce28")
+	)
+	(hierarchical_label "MCU-3.3V-GND"
+		(shape input)
+		(at 166.37 120.65 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bd408dee-3f96-4e18-8270-1ef6466e2e5d")
+	)
+	(hierarchical_label "GND-5V"
+		(shape input)
+		(at 166.37 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c5d07a5d-608b-4a66-855c-c20c30a8ef5e")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -721,6 +929,50 @@
 			(justify left)
 		)
 		(uuid "c9eb8ed1-6005-4287-b938-90f689c5233c")
+	)
+	(hierarchical_label "MCU-3.3V"
+		(shape input)
+		(at 166.37 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ce2942e7-3d9a-4c89-9166-fde71be57b18")
+	)
+	(hierarchical_label "MCU-3.3V"
+		(shape input)
+		(at 166.37 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dec55021-d88b-4738-8c08-e5632d062f0c")
+	)
+	(hierarchical_label "GND-5V"
+		(shape input)
+		(at 166.37 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e6b44888-e02e-4049-9d5e-2843b3887231")
+	)
+	(hierarchical_label "GND-5V"
+		(shape input)
+		(at 166.37 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fd3d1a65-2acf-41e0-ac94-3a8a80815607")
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x05")
@@ -868,13 +1120,12 @@
 		)
 	)
 	(sheet
-		(at 120.65 92.71)
-		(size 24.13 5.08)
+		(at 175.26 105.41)
+		(size 43.18 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -882,9 +1133,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "63877d52-72a1-47c9-9ee0-69b68b3def3d")
+		(uuid "0c008dd0-6d54-4752-ba46-1eb6534738e0")
 		(property "Sheetname" "PIR_ISOLATOR2"
-			(at 120.65 91.9984 0)
+			(at 190.246 116.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -893,7 +1144,7 @@
 			)
 		)
 		(property "Sheetfile" "pir_isolator.kicad_sch"
-			(at 120.65 98.3746 0)
+			(at 175.26 126.3146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -903,8 +1154,8 @@
 			)
 		)
 		(pin "PIR" input
-			(at 120.65 95.25 180)
-			(uuid "dd180463-1813-40d0-8c00-5b7c389c1779")
+			(at 175.26 115.57 180)
+			(uuid "e1527ddc-b472-4bc0-a11a-a0072d99e9f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -913,13 +1164,53 @@
 			)
 		)
 		(pin "PIR_mcu" output
-			(at 144.78 95.25 0)
-			(uuid "1f308b49-72da-4738-baff-37724a5b52ba")
+			(at 218.44 115.57 0)
+			(uuid "8ce7e4d5-6a14-4e38-a3e6-ec3130de390a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "+3.3V" input
+			(at 175.26 110.49 180)
+			(uuid "1795e861-66b3-40ef-be96-1b275e8431dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+5V" input
+			(at 175.26 107.95 180)
+			(uuid "46cd095c-e57c-48c1-aecb-0a0037652a1a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND-3.3V" input
+			(at 175.26 120.65 180)
+			(uuid "7f1caebf-4a03-44e5-bcf5-4cb26fbb2938")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND-5V" input
+			(at 175.26 123.19 180)
+			(uuid "34df51f9-5816-48a3-98f9-7f7ffe82210d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -931,13 +1222,114 @@
 		)
 	)
 	(sheet
-		(at 120.65 74.93)
-		(size 24.13 5.08)
+		(at 175.26 76.2)
+		(size 43.18 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0fa94158-aee5-4690-93f8-1973ad62f728")
+		(property "Sheetname" "PIR_ISOLATOR1"
+			(at 190.246 87.122 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pir_isolator.kicad_sch"
+			(at 175.26 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "PIR" input
+			(at 175.26 86.36 180)
+			(uuid "54efaafc-87ea-4598-97a0-59965bd4b3a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PIR_mcu" output
+			(at 218.44 86.36 0)
+			(uuid "92a46f1a-986b-4781-b14d-27f6d610d874")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+3.3V" input
+			(at 175.26 81.28 180)
+			(uuid "acedf8f3-c32a-4262-91b8-1db224ff9966")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+5V" input
+			(at 175.26 78.74 180)
+			(uuid "34a43424-56c0-46c5-997f-dabdabf359cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND-3.3V" input
+			(at 175.26 91.44 180)
+			(uuid "8193821a-4d72-40c3-b062-f5d2e6ef85d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND-5V" input
+			(at 175.26 93.98 180)
+			(uuid "cedf0b83-26f4-40b5-9632-ad540443cda8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "UV360"
+				(path "/f41306b9-7b2a-47ad-8a6e-226fbfa024ae/5235c0b2-ed00-4052-87b3-aafa4437d860"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 48.26)
+		(size 43.18 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -947,7 +1339,7 @@
 		)
 		(uuid "838d61aa-bfd3-43b0-96be-35c67846f33d")
 		(property "Sheetname" "PIR_ISOLATOR"
-			(at 120.65 74.2184 0)
+			(at 190.246 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -956,7 +1348,7 @@
 			)
 		)
 		(property "Sheetfile" "pir_isolator.kicad_sch"
-			(at 120.65 80.5946 0)
+			(at 175.26 69.1646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -966,7 +1358,7 @@
 			)
 		)
 		(pin "PIR" input
-			(at 120.65 77.47 180)
+			(at 175.26 58.42 180)
 			(uuid "00bf3183-d2d2-4c77-a2cc-feed18728c2f")
 			(effects
 				(font
@@ -976,7 +1368,7 @@
 			)
 		)
 		(pin "PIR_mcu" output
-			(at 144.78 77.47 0)
+			(at 218.44 58.42 0)
 			(uuid "6362e55a-b144-4117-a4e9-c74335d8ed0a")
 			(effects
 				(font
@@ -985,52 +1377,9 @@
 				(justify right)
 			)
 		)
-		(instances
-			(project "UV360"
-				(path "/f41306b9-7b2a-47ad-8a6e-226fbfa024ae/5235c0b2-ed00-4052-87b3-aafa4437d860"
-					(page "10")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 120.65 83.82)
-		(size 24.13 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "fdd530e1-065e-4c92-a13d-ffa8fd694749")
-		(property "Sheetname" "PIR_ISOLATOR1"
-			(at 120.65 83.1084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "pir_isolator.kicad_sch"
-			(at 120.65 89.4846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "PIR" input
-			(at 120.65 86.36 180)
-			(uuid "e4ad8828-75b7-4ab6-bf40-0a5bd19132ae")
+		(pin "+3.3V" input
+			(at 175.26 53.34 180)
+			(uuid "09d7fbe3-7755-4be6-99e5-f3a2f9da5c92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1038,20 +1387,40 @@
 				(justify left)
 			)
 		)
-		(pin "PIR_mcu" output
-			(at 144.78 86.36 0)
-			(uuid "a6bb9349-630c-4eca-8d23-6b45da997cfd")
+		(pin "+5V" input
+			(at 175.26 50.8 180)
+			(uuid "d1830be6-e6e5-4ac6-99f9-1d570c527198")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
+			)
+		)
+		(pin "GND-3.3V" input
+			(at 175.26 63.5 180)
+			(uuid "5aa4b3bb-d12a-4ec5-ae17-2eb7af051bc4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND-5V" input
+			(at 175.26 66.04 180)
+			(uuid "a81066dd-c9c9-42ce-8511-20c881dc1181")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
 			(project "UV360"
 				(path "/f41306b9-7b2a-47ad-8a6e-226fbfa024ae/5235c0b2-ed00-4052-87b3-aafa4437d860"
-					(page "11")
+					(page "10")
 				)
 			)
 		)

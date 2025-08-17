@@ -651,12 +651,24 @@
       "PIR_ISOLATOR"
     ],
     [
-      "fdd530e1-065e-4c92-a13d-ffa8fd694749",
+      "0fa94158-aee5-4690-93f8-1973ad62f728",
       "PIR_ISOLATOR1"
     ],
     [
-      "63877d52-72a1-47c9-9ee0-69b68b3def3d",
+      "0c008dd0-6d54-4752-ba46-1eb6534738e0",
       "PIR_ISOLATOR2"
+    ],
+    [
+      "b00e4399-9165-40f8-8561-8047821ed04f",
+      "HLK ISOLATOR"
+    ],
+    [
+      "1dba5add-2cc4-4fdf-9b71-4f76fe1fce1f",
+      "HLK ISOLATOR1"
+    ],
+    [
+      "2e880ab3-4042-49c6-83cf-ef8467a10b30",
+      "HLK ISOLATOR2"
     ]
   ],
   "text_variables": {}
